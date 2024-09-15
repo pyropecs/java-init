@@ -1,7 +1,7 @@
 package tasks;
 
 public class Copy {
-private int num;
+protected int num;
 private int[] arr;
 public Copy(int num,int[] arr){
     this.num = num;

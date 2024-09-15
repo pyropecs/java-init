@@ -10,6 +10,10 @@ Copy c3 = new Copy(c1); // deep copy using copy constructor
     System.out.println(c3.equals(c1));//false because newly object is created and values are copied into it
 
 
+
+
+
+
 }
 
 }
