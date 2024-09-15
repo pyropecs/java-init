@@ -8,9 +8,6 @@ public Copy(int num,int[] arr){
     this.arr = arr;
 }
 
-public void display(){
-    System.out.println(arr.toString());
-}
 
 
 public Copy(Copy c){
